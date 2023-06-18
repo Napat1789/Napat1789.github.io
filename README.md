@@ -1,6 +1,4 @@
 # Napat1789.github.io
-<html>
-    <body>
     Hello World NECS13O5 !!!
     นาย ณภัทร ภู่แกมแก้ว
     Napat Phukamkaew
@@ -17,4 +15,3 @@
     • Python
     ทักษะการป้องกันภัยคุกคาม (SOC)
     • Security Analysis
-</html>

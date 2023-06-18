@@ -14,4 +14,3 @@
     • Python
     ทักษะการป้องกันภัยคุกคาม (SOC)
     • Security Analysis
-

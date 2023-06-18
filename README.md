@@ -4,14 +4,14 @@
     นาย ณภัทร ภู่แกมแก้ว
     Napat Phukamkaew
     งานอดิเรก
-     • Football
-     • Snooker
-     • Batminton
+    • Football
+    • Snooker
+    • Batminton
     ทักษะสกิล
     ทักษะเขียนโค้ด (Codeing)
-     • C#
-     • Java Scpirt
-     • Python
+    • C#
+    • Java Scpirt
+    • Python
     ทักษะการป้องกันภัยคุกคาม (SOC)
-     • Security Analysis
+    • Security Analysis
 
